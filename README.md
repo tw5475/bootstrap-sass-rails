@@ -139,5 +139,5 @@ Apache License, Version 2.0
 
 ## Copyright
 
-Copyright 2011-2013 Morton Jonuschat  
-Twitter Bootstrap copyright 2011-2013 Twitter, Inc  
+Copyright 2011-2014 Morton Jonuschat  
+Twitter Bootstrap copyright 2011-2014 Twitter, Inc  
